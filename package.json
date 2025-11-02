@@ -1,0 +1,13 @@
+{
+  "name": "rillcare-ux-ui-mockup",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "DR INEDU MOSES",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "push": "git add . && git commit -m 'updated' && git push origin main",
+    "push:force": "git add . && git commit -m 'updated' && git push origin main --force"
+  }
+}
