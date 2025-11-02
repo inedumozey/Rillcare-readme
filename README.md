@@ -22,7 +22,7 @@ The UI/UX should emphasize **clarity**, **accessibility**, and **seamless naviga
 | ♿ **Accessibility**        | Ensure high contrast, logical tab order, and screen-reader support.                                        |
 | ⚡ **Speed**                | Prioritize fast, lightweight layouts with minimal visual clutter.                                          |
 | 🔁 **Feedback**             | Every interaction (clicks, form submissions, actions) should have clear success, error, or loading states. |
-| 🌙 **Dark Mode (Optional)** | Consider a dark mode variant for dashboards, especially for long clinical use.                             |
+| 🌙 **Dark Mode** | Consider a dark mode variant for dashboards, especially for long clinical use.                             |
 
 ---
 
